@@ -290,7 +290,7 @@ RODS_PRICES = {
     "spinning rod": 200000,
     "harpoon": 350000,
     "telescopic rod": 420000,
-    "ark rod": 500000
+    "ark rod": 500000,
     "carbon-fibre rod": 800000,
     "metal rod": 1000000,
     "trusty rod": 5000000,
