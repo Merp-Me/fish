@@ -64,6 +64,7 @@ class Fish(commands.Cog):
                 "magnet rod": 0,
                 "fly-fishing rod": 0,
                 "spinning rod": 0,
+                "ark rod": 0,
                 "harpoon": 0,
                 "telescopic rod": 0,
                 "carbon-fibre rod": 0,
